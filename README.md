@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rishab tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishab tyagi" height="30" width="40" /></a>
 <a href="https://instagram.com/risha6tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="risha6tyagi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/essdsons industries" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[essdsons industries](https://www.youtube.com/@EssdsonsAgriculturemachines)" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/essdsons industries" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt=https://www.youtube.com/@EssdsonsAgriculturemachines" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/9BJATckkXR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9BJATckkXR" height="30" width="40" /></a>
 </p>
 
